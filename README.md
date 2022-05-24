@@ -1,6 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Jungkyun%20Woo&fontSize=90&fontAlign=50&fontAlignY=40)
-
-
 <div align="center">
   <strong>🤔I'm..🤔</strong><br><br>
     - Studying Computer Science & Engineering at Chungnam National University🎓<br>
