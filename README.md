@@ -3,7 +3,7 @@
 
 <div align="center">
   <strong>🤔I'm..🤔</strong><br><br>
-    - Studying Computer Science & Engineering at Chungnam National University🎓
+    - Studying Computer Science & Engineering at Chungnam National University🎓<br>
     - Interested in the Front-End💻
 <br><br>
   <strong>✏Learning about✏</strong><br><br>
