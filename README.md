@@ -4,7 +4,7 @@
     - Studying Computer Science & Engineering at Chungnam National University🎓<br>
     - Interested in the Front-End Develop💻 -->
 <!-- <br><br><br> -->
-  <strong>✏Learning about✏</strong><br><br>
+  <strong>✏Interested in✏</strong><br><br>
   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <!--   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
