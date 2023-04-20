@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Jungkyun&height=250&section=header&fontSize=90&fontAlign=50&fontAlignY=40)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Jungkyun&height=250&section=header&fontSize=90&fontAlign=50&fontAlignY=40) -->
 <div align="center">
  <!-- <strong>🤔I'm..🤔</strong><br><br>
  <ul>
